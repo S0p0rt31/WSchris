@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\webservices\WcfService1\bin\WcfService1.dll.config
+C:\Users\Alumno\Desktop\webservices\WcfService1\bin\WcfService1.dll
+C:\Users\Alumno\Desktop\webservices\WcfService1\bin\WcfService1.pdb
+C:\Users\Alumno\Desktop\webservices\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\webservices\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Alumno\Desktop\webservices\WcfService1\obj\Debug\WcfService1.pdb
